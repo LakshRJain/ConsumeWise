@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768054562277",
+    "project_id": "consumewise-f494e",
+    "storage_bucket": "consumewise-f494e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768054562277:android:3976e14dc627f0b8b8b30c",
+        "android_client_info": {
+          "package_name": "com.example.gen_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB22uPbNKE1BFbgabkYARkxgZh9ySah8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
